@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of the great and mighty engagement between the English and Duch [sic] fleets, upon the coast of Holland; and the advancing of 24 of the chief Lords and noblemen of the United Provinces, to the several courts of admiralty. The setting up of the standard of the Netherlands: the resolution of their Lord Admiral De Witte, and his joyning with the French Fleet. The chaining up of the Dutch Harbors, the planting of the ordnance against the English; and all officers and souldiers to die without mercy, that shall dissert their colours. With the bearing up of the Lord General Monk, and 100 gallant men of war against them; their resolution to fight it out to the last man. The engaging of them near the Texel, the number sunk and taken; and the full particulars of the loss on both sides, with a list of the names of the captains, lieutenants, ensignes, masters, and others officers taken prisoners. Advertised by letters from the Navy, Sept. 3. 1653. and published by special order.</title>
+            <author>J. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92161</idno>
+            <idno type="STC">Wing R25</idno>
+            <idno type="STC">Thomason E712_8</idno>
+            <idno type="STC">ESTC R207136</idno>
+            <idno type="EEBO-CITATION">99866207</idno>
+            <idno type="PROQUEST">99866207</idno>
+            <idno type="VID">118472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118472)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E712[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of the great and mighty engagement between the English and Duch [sic] fleets, upon the coast of Holland; and the advancing of 24 of the chief Lords and noblemen of the United Provinces, to the several courts of admiralty. The setting up of the standard of the Netherlands: the resolution of their Lord Admiral De Witte, and his joyning with the French Fleet. The chaining up of the Dutch Harbors, the planting of the ordnance against the English; and all officers and souldiers to die without mercy, that shall dissert their colours. With the bearing up of the Lord General Monk, and 100 gallant men of war against them; their resolution to fight it out to the last man. The engaging of them near the Texel, the number sunk and taken; and the full particulars of the loss on both sides, with a list of the names of the captains, lieutenants, ensignes, masters, and others officers taken prisoners. Advertised by letters from the Navy, Sept. 3. 1653. and published by special order.</title>
+                  <author>J. R.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLIII. [1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Aboard the Amity, Aug. 30. 1653. J.R.</note>
+                  <note>Annotation on Thomason copy: "Sept. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Naval operations.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Netherlands --  History, Naval.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118472:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <p>An EXACT and TRUE RELATION OF The great and mighty Engagement
+between the Engliſh and Duch Fleets, upon the Coaſt of Holland; and the
+advancing of 24 of the chief Lords and Noblemen of the United Provinces, to the
+ſeveral Cou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts of Admiralty, The
+ſetting up of the Stan<g ref="char:EOLhyphen"/>dard of the Netherlands: The Reſolution of their
+Lord Admiral De Witte, and his joy<g ref="char:EOLhyphen"/>ning with the French Fleet. The chaining up
+of the Dutch Harbors, the planting of the Ordnance againſt the Engliſh; and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Officers and Souldiers to die
+without mercy, that ſhall diſſert their colours. With the bearing up of
+the Lord General Monk, and 100 gallant Men of War againſt them; their
+Reſolution to fight it out to the laſt man. The engaging of them near the
+Texel. the number ſunk and taken; and the full particulars of the loſs on
+both ſides with a Liſt of the names of the Captains, Lieutenants,
+Enſigns, Maſters, and others Officers taken priſoners.</p>
+            <p>
+               <hi>Advertiſed by Letters from the Navy,</hi> Sept. 3. 1653.
+<hi>and publiſhed by ſpecial Order.</hi>
+            </p>
+            <figure/>
+            <p>LONDON: Printed for G. H. MDCLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118472:2"/>
+            <!-- PDF PAGE 69 -->
+            <pb n="1" facs="tcp:118472:2"/>
+            <!-- PDF PAGE 69 -->
+            <head>An exact and true RELATION OF The great and mighty Engagement
+between the Engliſh and Dutch Fleets upon the coaſt of Holland. Being the
+copy of a Letter ſent from the Navy, tou<g ref="char:EOLhyphen"/>ching the ſame.</head>
+            <opener>
+               <salute>Endeared Brother,</salute>
+            </opener>
+            <p>IF after ſo many eminent diſcoveries of the will and
+purpoſe of God, touching the eſtabliſhment of our Commonwealth, any man
+ſhould be ſo much averſe as to continue oppoſite to the preſent rule
+and ſteering of thoſe Conſervators who now ſit at the helm, let them
+re<g ref="char:EOLhyphen"/>member, how God uſeth to diſpoſe of his incorrigible and implacable
+enemies. But I perceive, one main impedi<g ref="char:EOLhyphen"/>ment that keeps men from quitting
+their old and ancient principles (a ſparkling Diamond, in the precious
+Funda<g ref="char:EOLhyphen"/>mentals of our Engliſh Law; but foul and ignoble to kindle new coals
+within our dying and decaying embers; for I muſt ingeniouſly confeſſe,
+they are not yet well ſif<g ref="char:EOLhyphen"/>ted,) is, the fear of being counted a Turn-coat:
+Yet know <pb n="2" facs="tcp:118472:3"/>
+               <!-- PDF PAGE 70 -->that if God once
+declare, as it were from Heaven againſt thy ways, thy principle or thy party,
+then it is no diſho<g ref="char:EOLhyphen"/>nor, but ingenuity, and thy duty to Turn: For he hath
+ſaid in this caſe, If a man do not turn, he will whet his ſword, he hath
+bent his bow, and made it ready, he hath prepared or him the inſtruments of
+death and deſtructi<g ref="char:EOLhyphen"/>on. And it was a loud declaration from Heaven at our
+firſt engagement, when it pleaſed God to decide the con<g ref="char:EOLhyphen"/>troverſie, upon
+theſe our Neptune Dominions, for many weeks, in the ſpace of 7 hours: And
+again, let us but re<g ref="char:EOLhyphen"/>member, how eminently he hath appeared ſince in the
+ſecond and third engagements, at which time we are cre<g ref="char:EOLhyphen"/>dibly inſormed, that
+Trump and his Councel of Officers had ſuch a ſharp appetite, that nothing
+would ſatisfie their inſatiable ſtomacks, but the Iſle of Wight for a
+Breakfaſt, Dover for a Dinner, and our whole Fleet to make ſhipwrack of for
+a Supper; thus did they gorge themſelves with ſpoil, but at the laſt gave
+up the account with a final deciſion, almoſt, of the whole controverſie;
+for Providence ſeems, as it were with his own finger, to point out to all the
+world his reſolutions for England, a<g ref="char:EOLhyphen"/>gainſt a proud, imperious, and moſt
+inſulting Hogen Mogen, that is, the high and mighty Rebel of the
+Nether<g ref="char:EOLhyphen"/>lands; and by the ſeveral links compriſed within his in<g ref="char:EOLhyphen"/>comparable
+and golden chain of mercies, has vouchſafed unto us ſundry ſilver prizes,
+although I muſt ingeniouſ<g ref="char:EOLhyphen"/>ly acknowledge, ſometimes we have purchaſed
+them at a high rate: for truly, we have a very ſtout enemy to deal withal,
+and that all Europe (by wofull experience) hath found; but really the burthen
+ſeems not very heavy un<g ref="char:EOLhyphen"/>to us; for upon the 13 of this inſtant, being
+commanded to the coaſt of Holland, we all mutually aboard our nim<g ref="char:EOLhyphen"/>ble Amity,
+reſolved as one man to adventure all that was near and dear unto us, in the
+defence and preſervation of <pb n="3" facs="tcp:118472:3"/>
+               <!-- PDF PAGE 70 -->the
+honour and juſt propriety of our Native Countrey, againſt all Uſurpers,
+Violaters, and Infringers of the an<g ref="char:EOLhyphen"/>cient priviledges thereof.</p>
+            <p>In obedience to command we ſet ſail, with 5 men of war more
+to range the Holland coaſt, which we did, and the 14 of the ſame, we
+arrived near the ſaid Hollands coaſt, where one of our Frig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts that was in company, put forth the
+Dutch colours, upon the boltſprit, and likewiſe upon the Poop, and had
+Dutch vains at his Topmaſt heads then came two Pilot boats of, with 11 Pilots
+in them, and ſo they were all taken priſoners, &amp; to make it ſhort we
+all ſtood too and again for three days ſpace, where we took amongſt us
+five Buſſes with Herrings, then began a ſtorm and we loſt one another,
+and after the ſtorm had continu<g ref="char:EOLhyphen"/>ed ſix days, we met with a Hollander come
+from new Netherland, 14 pieces mounted, 750 hoghoſts of leaf Tobacco, and 800
+Beaver skins, with ſome other rich furs, we called to him to ſtrike, he
+would not, we came along his ſide, and fired four guns into her, and at that
+bout ſhot his tiller in two pieces, it was ſo much wind that we could not
+bear our lower guns out, but at the laſt he ſteering away ſomething
+large, we made a little ſhift to get 5 guns out below, and ſo boarded him,
+but was forced of again by reaſon of the ſea it was ſo great, and they
+told us they would not yield in that weather, and we anſwered we would ſink
+them, and ſo we did within one half hours time, for we ranged along his
+ſide twice, and trebble loaded our guns, with round and bar, and ſhot him
+under water, the men we ſaved to the number of 21, whereof one died when he
+came aboard, ſhe lay with her top ſail yards in the water, above 4 hours,
+which made us imagine that the Tobacco in the Cask was not wet through, that
+made her ſwim ſo long, we loſt 4 men, and four more deadly wounded, the
+Captain and Pylot <pb n="4" facs="tcp:118472:4"/>
+               <!-- PDF PAGE 71 -->were both hurt,
+the one on the thigh, the other on the leg, but now in the mending hand, we
+ſhot all her rigging to pieces before we ſunk her, and ſhe tore us to
+ſome pur<g ref="char:EOLhyphen"/>poſe, as had almoſt at any time yet, we likewiſe took one
+Buſſe, and we took what things was in her, and the men out of her to the
+number of 13, and ſo let her go adrift by reaſon of the bad weather, there
+is 12 ſail more ta<g ref="char:EOLhyphen"/>ken, and 3 ſunk going into the Texel, they were 40
+ſail in all, ſome from the Streights, and ſome from France, and
+likewiſe from the Weſt Indies, the ſhip that we took was one of them, and
+had loſt her Fleet, this day we are all of us ſetting ſail from Albrough
+Bay, for the coaſt of Holland to the number of 22, the reſt of our Fleet is
+there already under the command of Captain Lawſon. Van de Witte is ready to
+come out, but with what num<g ref="char:EOLhyphen"/>ber I cannot certainly tell you, for the men that
+we took in the Buſs, would not certifie us of no more then 36 or 40 ſail,
+our boat is going aſhore with the wounded men, and I have no time to write
+any thing more; onely I thought it not amiſs to repreſent you with a Liſt
+of the names of the Dutch Officers that were taken priſoners in the late
+fight, and ſent to England in the ſhip Samuel, and commanded by Capt.
+William Swyer, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>Captain Cornelius Everſon</item>
+               <item>Cap. Arion Banker</item>
+               <item>Cap. Martins Scahar</item>
+               <item>Cap. Cornelius Taman</item>
+               <item>Cap. Nich. Cloys Johnſon</item>
+               <item>Cap. Garbrand Scater</item>
+               <item>Cap. And. Fortune</item>
+               <item>Cap. John Hais</item>
+               <item>Lieut. Derrick Clonter</item>
+               <item>Lieut. Hendrick Johnſon Koning</item>
+               <item>Lieut. Helebtan Debuck</item>
+               <item>Lieut. James Sequeſte</item>
+               <item>Enſign John Virmuden</item>
+               <item>Enſi. Francis Vandermore</item>
+               <item>John Alberton, maſter</item>
+               <item>Batholomew Rouloſson, m.</item>
+               <pb n="5" facs="tcp:118472:4"/>
+               <!-- PDF PAGE 71 -->
+               <item>Feter Williamſon, m.</item>
+               <item>Garbrant Cornelius, m.</item>
+               <item>Peter Stute, m.</item>
+               <item>Hilbrack Arion, m.</item>
+               <item>Peter Lawſon, m.</item>
+               <item>Peter Mardinſon, m.</item>
+               <item>Segabert Martine, Surgeon.</item>
+               <item>Bernard Alberſon Camp, S.</item>
+               <item>Garrat Hendrickſon Plugh, S.</item>
+               <item>Hendrick Jacobſon, S.</item>
+               <item>John Juling, S.</item>
+               <item>William Dunker, maſters mate</item>
+               <item>Simond Johnſon Haline, ma.</item>
+               <item>Duick Abrahams, m.m. ſters mate</item>
+               <item>Lewis Deſonte, m.m.</item>
+               <item>Rame Peterſon, m.m.</item>
+               <item>James Johnſon, m.m.</item>
+               <item>Martin Joorſon, m.m.</item>
+               <item>Cloyſe Andros, gunner</item>
+               <item>Laurence Lawerſon, g.</item>
+               <item>Daniel Hendrickſon, g.</item>
+               <item>Cornelius Bomes, Boat<g ref="char:EOLhyphen"/>ſwain</item>
+               <item>Hendrick Cornelius, Boat<g ref="char:EOLhyphen"/>ſwain</item>
+               <item>Cornelius Jacobſon, Boat<g ref="char:EOLhyphen"/>ſwain</item>
+               <item>David Otter, Boatſ.</item>
+               <item>Michael Dammart, Car<g ref="char:EOLhyphen"/>penter.</item>
+               <item>Jacob Polſon, Carpenter.</item>
+               <item>John Ringes, Carpenter.</item>
+               <item>Barnet Johnſon, Carpen<g ref="char:EOLhyphen"/>ter.</item>
+            </list>
+            <div type="postscript">
+               <head>Postſcript.</head>
+               <p>VPon the cloſe of this letter, the wind blowing, and having
+a fair gale, we ſtruck off to the Dutch coaſt, where our General Monk
+ſailing within a league of the Texel bar, with 100 ſail, cauſed the
+Pendants and Strea<g ref="char:EOLhyphen"/>mers to be hung forth, and there rode with the reſt of our
+Fleet till Thurſday in the evening, at which time the ſeas growing rough,
+we were forced to ride at Anchor two leagues off; but upon our near approach
+the next mor<g ref="char:EOLhyphen"/>ning, the Governour of the Texel cauſed the Harbour to be
+chain'd up, and the Ordnance planted; the like was done at the Brill, Goree,
+and other places, and great is the allarum throughout all the Cinque-ports,
+with this ſud<g ref="char:EOLhyphen"/>dain change and revolution; for indeed, their deſign was 
+<pb n="6" facs="tcp:118472:5"/>
+                  <!-- PDF PAGE 72 -->to be out, before we could be
+ready to ſtrike ſail, and being prevented, the onely way to make it more
+facile, was for 24 of their chief Lords, to go to every Court of Admiralty, and
+to haſten out the ſhipping, whereof eight ſtately new ſhips, we hear
+are ready to lanch torch into the Deep with the reſt, and De Witte is to
+carry the Flag <hi>alias</hi> the Standard of the Netherlands, who 'tis ſaid
+is re<g ref="char:EOLhyphen"/>ſolved to fight us upon the 10 of this inſtant September, with one
+hundred and twenty men of War, and 27 Fire<g ref="char:EOLhyphen"/>ſhips; beſides ſeventeen
+ſail of French that are joined with them: ſo that we expect a ſuddain
+engagement, and deſire the prayers of all the people of God, for his poor
+creatures amongſt the reſt, in the day of battell, who ſubſcribes
+himſelf,</p>
+               <closer>
+                  <signed>Your most affectionate brother, <hi>J. R.</hi>
+                  </signed>
+                  <dateline>Aboard the Amity, 
+<date>Aug. 30. 1653.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
